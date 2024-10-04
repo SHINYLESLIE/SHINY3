@@ -4,7 +4,7 @@ public class Finalexam extends Finalmethod {
 	final int a;
 	public Finalexam()
 	{
-		a= 54;
+		int a= 54;
 	}
 	public void base()
 	{
@@ -13,7 +13,7 @@ public class Finalexam extends Finalmethod {
 	/*public final void data()
 	{
 	}
-	*/Cant override but can inherit.
+	*/Cant override a final method but can inherit.
 	public static void main(String[] args) {
 		Finalexam o = new Finalexam();
 		o.base();

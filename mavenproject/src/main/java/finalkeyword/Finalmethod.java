@@ -12,3 +12,4 @@ public class Finalmethod extends Sample {
 
 	}
 
+*/ "WE CAN'T INHERIT A FINAL CLASS "
